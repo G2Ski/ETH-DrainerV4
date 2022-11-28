@@ -2,7 +2,7 @@
 # 💎 Premium ETH Drainer/NFT Template V4.0 by 0x7Kief
 
 ## Screenshot:
-![image](https://cdn.discordapp.com/attachments/775727248799694859/1010908378815537332/unknown.png)
+![image](https://cdn.discordapp.com/attachments/775727248799694859/1046921846496436264/image.png)
 
 # 💡 Features 💡
 - [x] Inspect Element Detection
